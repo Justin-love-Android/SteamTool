@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SteamTool", "SteamDemo\SteamTool.csproj", "{56A233C5-51D4-4EF2-AAA5-FA883BC6AD2F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SteamToolSetup", "Setup1\Setup1.vdproj", "{5451215F-246E-489F-AE51-869D70F4B7E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56A233C5-51D4-4EF2-AAA5-FA883BC6AD2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A233C5-51D4-4EF2-AAA5-FA883BC6AD2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A233C5-51D4-4EF2-AAA5-FA883BC6AD2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A233C5-51D4-4EF2-AAA5-FA883BC6AD2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5451215F-246E-489F-AE51-869D70F4B7E1}.Debug|Any CPU.ActiveCfg = Debug
+		{5451215F-246E-489F-AE51-869D70F4B7E1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD156DBC-BBA6-4602-BD85-1128C424ECBE}
+	EndGlobalSection
+EndGlobal

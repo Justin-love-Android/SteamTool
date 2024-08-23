@@ -1,0 +1,17 @@
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamTool.exe
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamTool.deps.json
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamTool.runtimeconfig.json
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamTool.dll
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamTool.pdb
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.Form1.resources
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.Form2.resources
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamTool.csproj.GenerateResource.cache
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamTool.AssemblyInfoInputs.cache
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamTool.AssemblyInfo.cs
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamTool.csproj.CoreCompileInputs.cache
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamTool.dll
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\refint\SteamTool.dll
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamTool.pdb
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamTool.genruntimeconfig.cache
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\ref\SteamTool.dll

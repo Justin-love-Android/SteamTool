@@ -1,0 +1,17 @@
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.Form1.resources
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.csproj.GenerateResource.cache
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.AssemblyInfoInputs.cache
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.AssemblyInfo.cs
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.csproj.CoreCompileInputs.cache
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamDemo.exe
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamDemo.deps.json
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamDemo.runtimeconfig.json
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamDemo.dll
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\bin\Debug\net8.0-windows\SteamDemo.pdb
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.dll
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\refint\SteamDemo.dll
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.pdb
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.genruntimeconfig.cache
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\ref\SteamDemo.dll
+C:\Users\86135\source\repos\SteamDemo\SteamDemo\obj\Debug\net8.0-windows\SteamDemo.Form2.resources
